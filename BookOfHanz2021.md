@@ -38,9 +38,7 @@ As a game, Fate almost goes out of its way to avoid having players maximize the 
 
 One of the things I really appreciate about Fate is the idea that skills represent your final ability to influence a scene—not a base ability to be modified by a gazillion other factors. This ties in pretty heavily with the character optimization point above.
 
-## Lack of Emphasis
-
-on System Mastery
+## Lack of Emphasis on System Mastery
 
 For me, Fate is not a game about learning to manipulate the game system. It’s a game about the fiction ( the stuff we’re imagining in our heads), not the rules. The rules get out of the way, and it’s hard to have system mastery be important if you’re trying to de-emphasize the system.
 
@@ -50,9 +48,7 @@ Attempts to make Fate “crunchy” (making system mastery more important) make 
 
 Scenes in Fate games work best as a series of possible branches. They’re not challenges to be overcome. If there’s a 95% chance of success at no cost, there’s no real point in having a scene.
 
-## Focus on
-
-Opportunity Cost
+## Focus on Opportunity Cost
 
 This is a big one. Unlike games that focus on system mastery and overcoming challenges, Fate I think works best when opportunity cost is shoved in the players’ faces. That’s a question that appears over and over in Fate—how much do you want this and what are you willing to give up to get it? Do you spend Fate points to buy a victory, succeed at a cost, or accept Compels?
 
@@ -64,15 +60,11 @@ In most fiction, the weapon a given combatant uses isn’t particularly relevant
 
 An example of focusing on the story you are telling is thinking about mecha. Is the story about the mech? How many stats should a mech have, and how much of its combat ability should be based on it instead of its pilot? If it’s about the pilot, and a good pilot in a weak or mediocre mecha can still be an effective combatant, then the mecha should only have a modifying impact on the pilot’s skills, and the story will focus around the pilots. But if the story should focus around the attainment of awesome mecha, then they should have a larger impact. It’s not a matter of what’s “realistic”. It’s a matter of “what impact does this have on the game, and what elements do I want to be important in the game?”
 
-## Active Instead of
-
-Passive Bonuses
+## Active Instead of Passive Bonuses
 
 The bonuses being active as a result of things that you do fits in with the idea of proactive characters as well.
 
-## Skills Tied to Results,
-
-Not Actions
+## Skills Tied to Results, Not Actions
 
 In many games, using a skill means you’re engaging in a specific task that may have a variable result. In Fate, I see it more as “I’m trying to accomplish this–do I succeed?” It’s a subtle, but pretty important point, and colors how a lot of mechanics get applied.
 
@@ -224,117 +216,127 @@ Collaborative setting creation seems to be one of those weird things for people 
 
 I think the best way I can explain my thoughts on this is to give you a few examples of what I think it means. My examples will be three versions of a single pitch—government agents investigating supernatural threats—and how this changes according to the three groups it’s run with. Some of this will be slightly not-strictly-according-to-the-rules for the sake of the examples.
 
-Group One
+## Group One
 
-GM: “Okay, so government agents are investigating the supernatural. What do you guys like for a threat? Kind of at the looming threat level?”
+<div class="conversation">
 
-P1: “Aliens. I like aliens.”
+**GM**: “Okay, so government agents are investigating the supernatural. What do you guys like for a threat? Kind of at the looming threat level?”
 
-P2: “Cool! But, how about a conspiracy? Like, the aliens are working with the government?”
+**P1**: “Aliens. I like aliens.”
 
-GM: “I dig it. So you guys are what, then, FBI?”
+**P2**: “Cool! But, how about a conspiracy? Like, the aliens are working with the government?”
 
-P1: “Yeah, that sounds cool. Some interesting possibilities for the government investigating itself and their politics in there.”
+**GM**: “I dig it. So you guys are what, then, FBI?”
 
-GM: “Okay, any ideas on characters? I’d like to keep the players pretty normal—I don’t want this to be a superhero game.”
+**P1**: “Yeah, that sounds cool. Some interesting possibilities for the government investigating itself and their politics in there.”
 
-P1: “Okay, I can do normal. Since we’re doing aliens, how about if I’m an investigator obsessed with the supernatural, since my sister was abducted when I was a kid?”
+**GM**: “Okay, any ideas on characters? I’d like to keep the players pretty normal—I don’t want this to be a superhero game.”
 
-GM: “I like it.”
+**P1**: “Okay, I can do normal. Since we’re doing aliens, how about if I’m an investigator obsessed with the supernatural, since my sister was abducted when I was a kid?”
 
-P2: “Good stuff as a counter, why don’t I play a character that’s more skeptical? That’ll make some good tension between the two?”
+**GM**: “I like it.”
 
-GM: “Awesome. I’ll work on some details, and we’ll get to playing.”
+**P2**: “Good stuff as a counter, why don’t I play a character that’s more skeptical? That’ll make some good tension between the two?”
 
-Group Two
+**GM**: “Awesome. I’ll work on some details, and we’ll get to playing.”
 
-GM: “Okay, so government agents investigate the supernatural. What do you guys like for a threat? Kind of at the looming threat level?”
+</div>
 
-P1: “Hrm. How about something like an alternate dimension?”
+## Group Two
 
-P2: “Yeah, there could be something like a war looming, only we’re unaware of it.”
+<div class="conversation">
 
-P3: “That’s pretty cool. Though maybe there should be something else, some kind of group that’s kind of I don’t know, dimensional cops or something.”
+**GM**: “Okay, so government agents investigate the supernatural. What do you guys like for a threat? Kind of at the looming threat level?”
 
-GM: “Good stuff. Okay, any character ideas?”
+**P1**: “Hrm. How about something like an alternate dimension?”
 
-P1: “Can I be a government agent? Maybe psychic?”
+**P2**: “Yeah, there could be something like a war looming, only we’re unaware of it.”
 
-GM: “I’d like to keep this pretty much with normal people. I guess psychic is okay, but is it okay if it’s more ‘plot-psychic’, as in it’s not a generally useful skill?”
+**P3**: “That’s pretty cool. Though maybe there should be something else, some kind of group that’s kind of I don’t know, dimensional cops or something.”
 
-P1: “Sure, that works. It’s not relevant until it is.”
+**GM**: “Good stuff. Okay, any character ideas?”
 
-P2: “I want to be a mad scientist, how’s that?”
+**P1**: “Can I be a government agent? Maybe psychic?”
 
-P1: “Hey, you can have experimented on me when I was a kid, and that’s why I’m sorta psychic!”
+**GM**: “I’d like to keep this pretty much with normal people. I guess psychic is okay, but is it okay if it’s more ‘plot-psychic’, as in it’s not a generally useful skill?”
 
-P2: “Awesome. I love it.”
+**P1**: “Sure, that works. It’s not relevant until it is.”
 
-GM: “Cool. P3?”
+**P2**: “I want to be a mad scientist, how’s that?”
 
-P3: “We’re doing this dimension thing, right? How about if I’m someone from this other dimension?”
+**P1**: “Hey, you can have experimented on me when I was a kid, and that’s why I’m sorta psychic!”
 
-GM: “Mmm, I kinda want to keep the other dimension thing unknown to the characters at the start.”
+**P2**: “Awesome. I love it.”
 
-P3: “That’s fine, maybe I just don’t know it. Maybe I was dragged over here when I was a kid.”
+**GM**: “Cool. P3?”
 
-P2: “ maybe by your friendly neighborhood mad scientist?”
+**P3**: “We’re doing this dimension thing, right? How about if I’m someone from this other dimension?”
 
-P3: “I love it. But why?”
+**GM**: “Mmm, I kinda want to keep the other dimension thing unknown to the characters at the start.”
 
-P2: “Maybe you’re the alternate version of my dead son?”
+**P3**: “That’s fine, maybe I just don’t know it. Maybe I was dragged over here when I was a kid.”
 
-GM: “Oh, wow. I can’t see that blowing up in anyone’s faces. But does that mean that everyone has an alternate version?”
+**P2**: “ maybe by your friendly neighborhood mad scientist?”
 
-P1: “Yeah, I think it would.”
+**P3**: “I love it. But why?”
 
-GM: “That could get very cool if people start crossing dimensions. Love it. Okay, I’ll set it up, see you guys next week.”
+**P2**: “Maybe you’re the alternate version of my dead son?”
 
-Group Three
+**GM**: “Oh, wow. I can’t see that blowing up in anyone’s faces. But does that mean that everyone has an alternate version?”
 
-GM: “Okay, so government agents investigate the supernatural. What do you guys like for a threat? Kind of at the looming threat level?”
+**P1**: “Yeah, I think it would.”
 
-P1: “I really like the idea that myths are based on some kind of reality, even if it’s heavily distorted. Can we do something like that.”
+**GM**: “That could get very cool if people start crossing dimensions. Love it. Okay, I’ll set it up, see you guys next week.”
 
-GM: “Sure. What kind of myths?”
+</div>
 
-P2: “I dunno, most of the old myths are overdone.”
+## Group Three
 
-P3: “How about fairy tales? Except we’ve drastically misinterpreted them.”
+<div class="conversation">
 
-GM: “That could be cool. So, what are you guys thinking? FBI for you guys?”
+**GM**: “Okay, so government agents investigate the supernatural. What do you guys like for a threat? Kind of at the looming threat level?”
 
-P1: “Mmmmm how about something more low-scale at first, to kind of make the larger conflict seem bigger. Maybe local cops?”
+**P1**: “I really like the idea that myths are based on some kind of reality, even if it’s heavily distorted. Can we do something like that.”
 
-P2: “Yeah, I like it. And maybe the fairy-tale creatures are trying to rise to prominence like they used to be.”
+**GM**: “Sure. What kind of myths?”
 
-P3: “Oh, that’s awesome. But if we’re going with misinterpreted fairy tales, I get to be the big bad wolf.”
+**P2**: “I dunno, most of the old myths are overdone.”
 
-GM: “Cute.”
+**P3**: “How about fairy tales? Except we’ve drastically misinterpreted them.”
 
-P3: “No, really! Except I”m like, reformed, and a vegetarian.”
+**GM**: “That could be cool. So, what are you guys thinking? FBI for you guys?”
 
-P1: “That’s kind of awesome.”
+**P1**: “Mmmmm how about something more low-scale at first, to kind of make the larger conflict seem bigger. Maybe local cops?”
 
-GM: “I really want to keep this more about regular people, not superheroes”
+**P2**: “Yeah, I like it. And maybe the fairy-tale creatures are trying to rise to prominence like they used to be.”
 
-P3: “That’s fine. Maybe I’m a bit tougher than most people, but that’d really be about it I figure most of these supernatural folks are just kinda hanging out living regular lives anyway, so I don’t really need anything super-awesome.”
+**P3**: “Oh, that’s awesome. But if we’re going with misinterpreted fairy tales, I get to be the big bad wolf.”
 
-GM: “Yeah, I can see that working.”
+**GM**: “Cute.”
 
-P1: “Okay, so these are fairy tales, right? How about if the fairy tales were written down originally as kind of a warning about the supernatural? And then I’m one of the descendants of this group that fought against them?”
+**P3**: “No, really! Except I”m like, reformed, and a vegetarian.”
 
-GM: “I like it. P2?”
+**P1**: “That’s kind of awesome.”
 
-P2: “Well, you want to keep this grounded, and we’ve already got the big bad wolf and a monster hunter, so why don’t I just be a regular cop? That’ll provide at least some grounding back in reality. Plus, I think getting exposed to this stuff will lead to some cool character development.”
+**GM**: “I really want to keep this more about regular people, not superheroes”
 
-GM: “That’s awesome. I’ll get some stuff planned, and see you guys next week.”
+**P3**: “That’s fine. Maybe I’m a bit tougher than most people, but that’d really be about it I figure most of these supernatural folks are just kinda hanging out living regular lives anyway, so I don’t really need anything super-awesome.”
+
+**GM**: “Yeah, I can see that working.”
+
+**P1**: “Okay, so these are fairy tales, right? How about if the fairy tales were written down originally as kind of a warning about the supernatural? And then I’m one of the descendants of this group that fought against them?”
+
+**GM**: “I like it. P2?”
+
+**P2**: “Well, you want to keep this grounded, and we’ve already got the big bad wolf and a monster hunter, so why don’t I just be a regular cop? That’ll provide at least some grounding back in reality. Plus, I think getting exposed to this stuff will lead to some cool character development.”
+
+**GM**: “That’s awesome. I’ll get some stuff planned, and see you guys next week.”
 
 In each case, the players have modified the setting, and the story of the games will end up revolving around them—it wouldn’t work with other characters. But, the GM still has a huge amount of responsibility over the game—the players helped set the overall world, as well as the general themes of the game, but the individual events and scenarios still are well within the realm of what the GM does, even if they’re based on character aspects.
 
-# Pacing Mechanisms
+</div>
 
-in Fate
+# Pacing Mechanisms in Fate
 
 One of the things I see some confusion about in Fate are the various pacing mechanisms available—Conflicts, Contests, and Challenges, or as I like to call them, the 3 Cs.
 
@@ -532,9 +534,7 @@ I can’t imagine running a Fate game where character creation didn’t influenc
 
 I’ve learned to dislike the term “backstory” when it comes to Fate characters. Backstory implies that it’s the past, and in many gaming circles carries the connotation that it’s only important from a motivational view after all, the story was probably created before you made your characters. Your character’s history drives the game. It’s what creates complications, and gives players the chance to decide what type of game they want to play.
 
-# Rob’s Guide
-
-to Writing Good Aspects
+# Rob’s Guide to Writing Good Aspects
 
 Aspects are one of the recurring things people, especially new people, have problems with in Fate.
 
@@ -752,9 +752,7 @@ Fate Core, as far as I can see, tries to emulate fiction. That doesn’t just me
 
 A slippery, ice-covered surface, in fiction, doesn’t mean that every description or shot of people on it involves them slipping and sliding around. That’s boring. What it probably means is that at some key moment, somebody will slip because of the surface creating some dramatic moment. And that’s what Fate tries to emulate—how the dramatic elements work together, not the actual effects of fighting on a slippery surface. It follows the rules of fiction regardless of realism, not reality—even ‘cinematic’ reality.
 
-# How I GM
-
-Fate Core
+# How I GM Fate Core
 
 This is how I run Fate.
 
@@ -762,9 +760,7 @@ This is how I run Fate.
 
 This is where I just say to some people “Hey, let’s play some Fate!” I’ll include a general description of what type of game I’m thinking about running: “Let’s play a basic fantasy-type game!” “Let’s do a game based on Brutal Legend!” or something along those lines.
 
-## Step Two: Initial
-
-Prep-work
+## Step Two: Initial Prep-work
 
 I’ll usually take a look at the skill list, dials in Fate, extra subsystems (Magic, armor, etc.) and propose some defaults. This is still pretty lightweight, and seriously subject to change. This is more about setting an initial stake in the ground in terms of what the game will be than anything. As part of this, I may flesh out some high level conflict that I think may be interesting—but again, this is kept very vague and loose, primarily so that I’m not overly attached to it if it turns out the players go a totally different direction. Depending on how detailed the pitch is, the planning I’ll do at this point will typically be more along the lines of coming up with NPCs/factions that may be opposing each other and create dynamic forces in the world, not a series of events. They’ll typically be vague, so that I can insert appropriate details from character creation.
 
@@ -1002,11 +998,7 @@ A Fate game, run as Fate can be far more brutal than any D&D game I’ve ever pl
 
 Failure is a core part of Fate “as Fate”. Embrace it.
 
-# Demystifying the Fate Fractal,
-
-and the Nature
-
-of Aspects
+# Demystifying the Fate Fractal, and the Nature of Aspects
 
 My first real exposure to Fate was Spirit of the Century. I had come from a long history of playing traditional games. I saw Aspects and thought “Hey, neat! Those are just like Advantages/Feats/Edges/etc.!, except you get to name them cool things and you can make anything you want!” It seemed pretty obvious, and pretty cool. Having figured that out, I went on to the rest of the system.
 
@@ -1120,11 +1112,7 @@ If the players’ decisions are driving the answer to the questions of the game,
 
 Questions and decisions. Get those, and you’re golden.
 
-# In Defense
-
-of Monster
-
-of the Week
+# In Defense of Monster of the Week
 
 Monster of the week episodes on TV get a bad rap, and they can also get a bad rap in game sessions. The idea that they’re filler content with little creativity and has nothing to do with the overall plot that’s occurring does not speak to their strengths.
 
