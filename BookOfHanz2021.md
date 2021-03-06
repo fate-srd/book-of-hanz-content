@@ -490,7 +490,7 @@ Soon the conflict becomes stopping the necromancer by spending some fate points 
 
 This escalation is happening simultaneously for both sides in the conflict. Tactics and abilities can change how quickly each side escalates, but at the end of the day it’s about how badly you want it more than anything else.
 
-# Put a Bird Scene On It
+# Put a Scene On It
 
 So I’m running my Kriegszeppelin game, and a player wants to hop up his plane using some mechanics. I’m fully thinking GURPS/D&D, and so I have him roll the dice. He succeeds, gets some invokes on a Scene Aspect, and we move on. Did I do it right?
 
