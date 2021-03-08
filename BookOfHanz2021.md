@@ -162,19 +162,19 @@ Stress isn’t damage—it’s a pacing measure, a way of determining how close 
 
 So we narrate the results, and the game progresses. This gives an overall flow that looks something like this:
 
-Describe scene in terms of “the fiction”
+1. Describe scene in terms of “the fiction”
 
-Determine character’s action in the “fiction”
+1. Determine character’s action in the “fiction”
 
-Determine opposition
+1. Determine opposition
 
-Determine how to apply rules
+1. Determine how to apply rules
 
-Resolve action mechanically
+1. Resolve action mechanically
 
-Get constraints on resolution from the mechanics
+1. Get constraints on resolution from the mechanics
 
-Narrate the resolution within the given constraints
+1. Narrate the resolution within the given constraints
 
 In my mind this clears up a few common questions/concerns that come up about Fate, especially with more players coming from more traditional RPGs.
 
@@ -194,13 +194,13 @@ Well, what about them? If a trained warrior hits an unarmed, unexpecting non-com
 
 This isn’t really a Conflict, so stress isn’t relevant (stress is a Conflict pacing mechanic, not an inherent property of characters). Think about how to resolve an action That resolution is dependent on a few things:
 
-The action being performed
+- The action being performed
 
-The intended result
+- The intended result
 
-The specific situation
+- The specific situation
 
-The larger “goal” of the scene
+- The larger “goal” of the scene
 
 In many systems, resolution is dependent only on the first point. In Fate, that’s not the case. Pushing someone can be an Attack (attempting to push them off a cliff), or it can be Create Advantage (knocking them down or off balance), or it can be an Overcome (moving them out of an advantageous position).
 
@@ -364,13 +364,13 @@ But what if you have active opposition—some individual or party that is direct
 
 If your opposition is active and wants to get you to back down, you use a Conflict. By backing down, I mean that the goal of the opposition is to get you to back down in some way either by getting knocked out and killed, by surrendering, by fleeing, etc. For a Conflict, the two things should be true:
 
-Both sides are committed to getting the other side to back down
+- Both sides are committed to getting the other side to back down
 
-The “question” of the conflict is either:
+- The “question” of the conflict is either:
 
-Whether a particular side will back down in some way
+- Whether a particular side will back down in some way
 
-Something that the winner can accomplish if the opposition isn’t there
+- Something that the winner can accomplish if the opposition isn’t there
 
 So if you’re trying to capture some bad guys (or the other way around), that could be a Conflict, so long as both sides are exchanging blows (by choice or because no other option exists). If you’re trying to get past guards to defuse a bomb, that’s a Conflict.
 
@@ -422,11 +422,11 @@ Let’s take another look at a three-stress hit. What does this mean? Mechanical
 
 So if we’re going for “gritty”, clearly this doesn’t mean we took a nasty slice across the chest. We have alternatives:
 
-We’ve been forced out of position and are “on our heels”
+- We’ve been forced out of position and are “on our heels”
 
-We’ve taken a parry poorly, causing our hand to sting but no lasting damage
+- We’ve taken a parry poorly, causing our hand to sting but no lasting damage
 
-We had to jump out of the way to dodge, causing no injury, but making us get a bit more winded.
+- We had to jump out of the way to dodge, causing no injury, but making us get a bit more winded.
 
 Pain, muscle damage, blood loss and shock would probably mean that a single serious blow means “game over”. So while grittiness can be imaginative and descriptive, more often than not it is less interesting for gameplay.
 
@@ -454,9 +454,7 @@ Bob hits Alfred for four stress, Alfred takes 2 and a minor consequence: “Alfr
 
 Alfred hits Bob for five stress, Bob takes a Severe consequence and one stress: “Nursing his injured hand, Alfred kicks at Bob and sprawls him out. Bob gasps in pain, it feels like he may have a fractured rib.” Same mechanics. Very different feel, based upon narration and calibration.
 
-# Fiction,
-
-not Physics
+# Fiction, not Physics
 
 “Fiction, not Physics.”
 
@@ -506,13 +504,13 @@ Any time something happens, frame it in a scene. Contacts roll? Where are they g
 
 There’s another subtle benefit of thinking in scenes. Things happen in scenes. You’ve got to ask the big scene questions first.
 
-What is this scene about?
+- What is this scene about?
 
-What’s at stake?
+- What’s at stake?
 
-What could go wrong?
+- What could go wrong?
 
-What interesting thing is about to happen?
+- What interesting thing is about to happen?
 
 And if you don’t have interesting answers to those questions, it’s probably not an interesting scene and should just be skipped over. If your game was a TV show or a movie, would they waste script time on this?
 
@@ -550,15 +548,15 @@ Now, what a good aspect is becomes a bit harder to define, especially without a 
 
 To write a good aspect, it’s fundamentally important that you understand what they do in game. While this may depend on a number of things, aspects on character typically do one or more of five things:
 
-Grant permission
+1. Grant permission
 
-Make you awesome doing some things
+1. Make you awesome doing some things
 
-Hinder you in some circumstances
+1. Hinder you in some circumstances
 
-Complicate your life
+1. Complicate your life
 
-Create setting
+1. Create setting
 
 We’ll cover each of these, and why they’re important.
 
@@ -800,17 +798,17 @@ Arc generation is usually about taking one of the preliminary arc ideas from Ste
 
 I ask myself the following questions when I’m mapping things out:
 
-Why is this relevant to the characters?
+1. Why is this relevant to the characters?
 
-Who is involved in this?
+1. Who is involved in this?
 
-What are they trying to achieve?
+1. What are they trying to achieve?
 
-Who might be opposing them?
+1. Who might be opposing them?
 
-Who might be helping them?
+1. Who might be helping them?
 
-What will they do, if unopposed?
+1. What will they do, if unopposed?
 
 More traditional players/GMs might find this artificial. I see it as a focus on fiction—in fiction, the events are directly about the characters, and often specifically to highlight inner conflict of the characters. This involves the characters and players more directly, and focuses the story on them. This is what changes Star Wars from a generic story about shooting lasers to a more meaningful story about the darkness within us, and the temptation of that darkness. This is what gives us recurring enemies that players love to hate. Incidentally, one of the main reasons I use player-created opposition when possible is the simple fact of investment. Players care about things based on how much they have invested in them. GMs often forget this—the big bad that we create is cool to us, because we have invested in them heavily. The players could care less, until that bad guy touches something that they have invested in. By stealing opposition from the players, we start with some level of investment, even if that’s no more than the players coming up with a name. And we’ll all be invested naturally through the prep process. So this ends up making a more involved game for everyone.
 
@@ -818,21 +816,21 @@ More traditional players/GMs might find this artificial. I see it as a focus on 
 
 Now we’ve got the game and arc prep done, and it’s time to do the session prep. Fortunately, this is usually pretty easy.
 
-So what’s changed in the world since we last played, or as a result of the last session? This is my way of getting my head around all of the other NPCs in the game and what they’re doing. How are they going to react to the events of the last game? How have their plans changed?
+1. So what’s changed in the world since we last played, or as a result of the last session? This is my way of getting my head around all of the other NPCs in the game and what they’re doing. How are they going to react to the events of the last game? How have their plans changed?
 
-What are the relevant NPCs up to, anyway? Figure this out, and usually the next set of events will suggest themselves.
+1. What are the relevant NPCs up to, anyway? Figure this out, and usually the next set of events will suggest themselves.
 
-Look over the character sheets for any good compels/complications to add. Always try to tie things back to the characters!
+1. Look over the character sheets for any good compels/complications to add. Always try to tie things back to the characters!
 
-Do I have an idea of where the characters are going this session? Hopefully, yes—Fate is a game about proactive characters, and so generally they should have been in motion at the end of the last session. If not, that’s okay, we can get them in motion.
+1. Do I have an idea of where the characters are going this session? Hopefully, yes—Fate is a game about proactive characters, and so generally they should have been in motion at the end of the last session. If not, that’s okay, we can get them in motion.
 
-Prep some hand grenades. Hand grenades are events that occur that demand a PC response—even if not a particular response. They should be things that make the story more interesting. They may or may not be compels, but if they tie into a character or aspect, that’s awesome! NPCs coming to the PCs for aid, revelations, NPC actions, these are all examples of hand grenades.
+1. Prep some hand grenades. Hand grenades are events that occur that demand a PC response—even if not a particular response. They should be things that make the story more interesting. They may or may not be compels, but if they tie into a character or aspect, that’s awesome! NPCs coming to the PCs for aid, revelations, NPC actions, these are all examples of hand grenades.
 
 An example of a hand grenade from one of the last games I ran: The PCs were investigating some particularly nasty bandits, who it turned out to be were demon-infested (void summoners). One of the PCs had the aspect “Doesn’t trust a pretty face”, another one had the aspect “Compelled to help those in need”, and the PCs got stuck with the situation aspect “They know who we are” as the result of a concession in the previous game (the inciting incident, actually). The hand-grenade was the youngish, female demon-infested bandit coming to the PCs and asking for help.
 
 Demands action? Yup. Deliberately targets PC aspects, and creates interesting conflict? Oh, yeah.
 
-Sketch out possible set-pieces if they’re clearly coming up. This is actually the thing I do the least, as it invests heavily in a defined course of action by the PCs, and I try not to do that. As a GM, it’s way too easy to get a particular course of action in mind, and subtly “guide” the PCs that way. So I deliberately go the other way and avoid even thinking about what the PCs will do. Instead, I create interesting situations, and, as a “fan of the PCs”, get excited about how they’ll deal with those situations.
+6. Sketch out possible set-pieces if they’re clearly coming up. This is actually the thing I do the least, as it invests heavily in a defined course of action by the PCs, and I try not to do that. As a GM, it’s way too easy to get a particular course of action in mind, and subtly “guide” the PCs that way. So I deliberately go the other way and avoid even thinking about what the PCs will do. Instead, I create interesting situations, and, as a “fan of the PCs”, get excited about how they’ll deal with those situations.
 
 ## Step Seven: Running the Session & Session Start
 
@@ -848,17 +846,15 @@ Hopefully, the characters have some clear goal in mind, something that just won�
 
 Now, the PCs should come up with some course of action. This is where a little GM subtle nudging comes into play. What we’re trying to do at this point is to quickly drive to an interesting scene. I find there’s a few things I can do to help this.
 
-If the request is abstract, turn it into a real action. “Investigate” isn’t a scene. “Go to the arcane academy’s library and look up xyz” is a possible scene.
+1. If the request is abstract, turn it into a real action. “Investigate” isn’t a scene. “Go to the arcane academy’s library and look up xyz” is a possible scene.
+1. Understand what the PCs goal is. “Okay, so what are you trying to accomplish? If this goes your way, what changes?” It’s amazing how often the players won’t initially have an idea! Nudging them towards this allows me as a GM to:
 
-Understand what the PCs goal is. “Okay, so what are you trying to accomplish? If this goes your way, what changes?” It’s amazing how often the players won’t initially have an idea! Nudging them towards this allows me as a GM to:
-
-Not railroad
-
-Provide appropriate opposition
-
-Keep things moving!
-
-Figure out who might be opposed to this, and how it might go poorly. While in some cases ‘behind the scenes’ consequences can be interesting, I more often prefer to keep things “on-screen”.
+<ul>
+<li>Not railroad</li>
+<li>Provide appropriate opposition</li>
+<li>Keep things moving!</li>
+<li>Figure out who might be opposed to this, and how it might go poorly. While in some cases ‘behind the scenes’ consequences can be interesting, I more often prefer to keep things “on-screen”.</li>
+</ul>
 
 If there’s no interesting consequences, and no interesting opposition, I generally just let them have what it is they’re trying to do, or briefly do a couple of rolls and get on with it. No point in spending time on minutiae.
 
@@ -916,29 +912,29 @@ If the campaign has reached a natural conclusion, and there’s no desire (or ea
 
 There’s also a couple of things that I try to do during the game. These are overall guides, and so they don’t really belong in any one section.
 
-Don’t predict where the game will go. This one is so important, I’ll put it at rule zero. The more you predict what will happen, the more you’ll try to make it happen. Going into a game with no clue of where it will go is quite scary at first, but is also amazingly fun once you get used to it. It also ensures that you’re listening to your players, and letting them drive the game. If there’s an overall arc of the game that you’re expecting, like fomenting a rebellion instead of having guerrilla action, or heavy political play, make sure you talk to your players about that—this is the kind of thing that everyone should be on the same page about when it comes to “this is the game we’re playing.” It’s also something that can be readily discussed without causing “spoilers”.
+1. Don’t predict where the game will go. This one is so important, I’ll put it at rule zero. The more you predict what will happen, the more you’ll try to make it happen. Going into a game with no clue of where it will go is quite scary at first, but is also amazingly fun once you get used to it. It also ensures that you’re listening to your players, and letting them drive the game. If there’s an overall arc of the game that you’re expecting, like fomenting a rebellion instead of having guerrilla action, or heavy political play, make sure you talk to your players about that—this is the kind of thing that everyone should be on the same page about when it comes to “this is the game we’re playing.” It’s also something that can be readily discussed without causing “spoilers”.
 
-Keep people involved, but respect everyone’s style of playing. This is a bit of a balancing act. As the GM, you are a mediator. It’s your job to keep everybody involved in the game, but some people are just naturally more introverted, and won’t be as proactive or forceful in their opinions. Try to coax interaction out of them, but don’t press the issue. Your main job with this is to keep the more extroverted/forceful folks from drowning them out or dominating the game
+1. Keep people involved, but respect everyone’s style of playing. This is a bit of a balancing act. As the GM, you are a mediator. It’s your job to keep everybody involved in the game, but some people are just naturally more introverted, and won’t be as proactive or forceful in their opinions. Try to coax interaction out of them, but don’t press the issue. Your main job with this is to keep the more extroverted/forceful folks from drowning them out or dominating the game
 
-Keep things dramatic. Fate is a game about drama.
+1. Keep things dramatic. Fate is a game about drama.
 
-Keep things centered on the players! Your job is to keep the players interested with what’s happening, not keep yourself interested with all of the behind-the-scenes hidden stuff that you know about.
+1. Keep things centered on the players! Your job is to keep the players interested with what’s happening, not keep yourself interested with all of the behind-the-scenes hidden stuff that you know about.
 
-Show, don’t tell. As I said earlier, some ‘behind the scenes’ stuff can be interesting, but in general you want to keep things visible and on-screen.
+1. Show, don’t tell. As I said earlier, some ‘behind the scenes’ stuff can be interesting, but in general you want to keep things visible and on-screen.
 
-I usually like difficulties to be based on dramatic importance more than anything. If something is critical, make the players decide how bad they want it! Fate is more about deciding what’s important, via Fate Point expenditures, than it is about micro-managing bonuses or simulating reality. So put those hard decisions front and center!
+1. I usually like difficulties to be based on dramatic importance more than anything. If something is critical, make the players decide how bad they want it! Fate is more about deciding what’s important, via Fate Point expenditures, than it is about micro-managing bonuses or simulating reality. So put those hard decisions front and center!
 
-Keep failures interesting. Success with a cost is great, and interesting failures are great, too. What’s not great is “that doesn’t work.” Keep things moving, even if not in the direction the characters necessarily wanted to go!
+1. Keep failures interesting. Success with a cost is great, and interesting failures are great, too. What’s not great is “that doesn’t work.” Keep things moving, even if not in the direction the characters necessarily wanted to go!
 
-Solicit player input. This is a great way to offload some work. Details about a holiday? Ask the players! Who’s the innkeeper? Ask the players! Also, encourage collaboration. If a player feels on the spot by a question like that, ask them for any kind of thought they have on it, and then get others to jump in and collaborate.
+1. Solicit player input. This is a great way to offload some work. Details about a holiday? Ask the players! Who’s the innkeeper? Ask the players! Also, encourage collaboration. If a player feels on the spot by a question like that, ask them for any kind of thought they have on it, and then get others to jump in and collaborate.
 
-Be honest. Fate is a great game for honesty. There’s nothing wrong with telling the players the consequences of a failed roll before you roll if you’re planning something that’s not super-obvious. Talk about why you’re setting things a certain way, and encourage players to be involved in that.
+1. Be honest. Fate is a great game for honesty. There’s nothing wrong with telling the players the consequences of a failed roll before you roll if you’re planning something that’s not super-obvious. Talk about why you’re setting things a certain way, and encourage players to be involved in that.
 
-Keep consequences appropriate. I like to say “For someone to be Taken Out, they have to be Taken Out.” That’s my way of basically saying that you can’t shortcut the stress/consequences track by, say, throwing someone off of a cliff—if they still have stress/consequences, then maybe they’re holding onto the cliff, evaded your grab and twisted their ankle, etc. But it works for other rolls, too. A check to cast a trivial spell generally shouldn’t have the end of the universe as failure! This can be true even if it would “make sense”. Instead, take a higher-leveled view: Even if the particular spell failing would result in the end of the world, maybe a failure means something else—maybe it means that as part of casting the spell, something bad happens—or it takes longer than you expected—or possibly you realize that you don’t have something you need or can’t summon the energy.
+1. Keep consequences appropriate. I like to say “For someone to be Taken Out, they have to be Taken Out.” That’s my way of basically saying that you can’t shortcut the stress/consequences track by, say, throwing someone off of a cliff—if they still have stress/consequences, then maybe they’re holding onto the cliff, evaded your grab and twisted their ankle, etc. But it works for other rolls, too. A check to cast a trivial spell generally shouldn’t have the end of the universe as failure! This can be true even if it would “make sense”. Instead, take a higher-leveled view: Even if the particular spell failing would result in the end of the world, maybe a failure means something else—maybe it means that as part of casting the spell, something bad happens—or it takes longer than you expected—or possibly you realize that you don’t have something you need or can’t summon the energy.
 
-Help players with the rules and strategy! Man, if I could change one thing about the first couple of times I ran Fate, this would be it. Effective strategies in Fate aren’t always obvious to new players, and as such the game can be very frustrating. Make sure your players know how Create Advantage works, especially in a Conflict. Make sure they know how to use CA to use their better skills against either environment opposition, or their opponents’ weaker skills. As a GM, constantly ask yourself “hey, what would I do if I was this player?” and suggest that to the players! Have a brief conversation with them about skill match-ups, stacking aspects granted via CA, and even the trade-offs between big hits (fewer rounds to take someone out, requires more shifts) and little hits (more rounds to take someone out, requires fewer shifts).
+1. Help players with the rules and strategy! Man, if I could change one thing about the first couple of times I ran Fate, this would be it. Effective strategies in Fate aren’t always obvious to new players, and as such the game can be very frustrating. Make sure your players know how Create Advantage works, especially in a Conflict. Make sure they know how to use CA to use their better skills against either environment opposition, or their opponents’ weaker skills. As a GM, constantly ask yourself “hey, what would I do if I was this player?” and suggest that to the players! Have a brief conversation with them about skill match-ups, stacking aspects granted via CA, and even the trade-offs between big hits (fewer rounds to take someone out, requires more shifts) and little hits (more rounds to take someone out, requires fewer shifts).
 
-Get your players used to success and failure in Fate! Specifically, make sure they know how tough it is to get Taken Out in a single blow! Put them through a Concession early if they’re not used to Fate, and show them how the game keeps going. Have them fail some rolls, and again show them how the game keeps going. Many gamers are used to games where “failure” = “game over”, so this is a key part of Fate for new players.
+1. Get your players used to success and failure in Fate! Specifically, make sure they know how tough it is to get Taken Out in a single blow! Put them through a Concession early if they’re not used to Fate, and show them how the game keeps going. Have them fail some rolls, and again show them how the game keeps going. Many gamers are used to games where “failure” = “game over”, so this is a key part of Fate for new players.
 
 And most of all
 
@@ -962,9 +958,9 @@ When games are often about going through a series of challenges (whether they’
 
 There’s two fundamental reasons for this:
 
-A number of games remove player agency in terms of the overall story structure
+1. A number of games remove player agency in terms of the overall story structure
 
-A number of games don’t provide for meaningful failures that aren’t death. If you lose combat, the orcs kill you. If you fail your jump, you fall into the deathy-death pit of death. Or, you lose hit points, which will make death happen sooner.
+1. A number of games don’t provide for meaningful failures that aren’t death. If you lose combat, the orcs kill you. If you fail your jump, you fall into the deathy-death pit of death. Or, you lose hit points, which will make death happen sooner.
 
 In Fate, death is a rare occurrence. By the rules. To kill someone, you have to Take Them Out before they can concede, and even then you have to explicitly choose that they die. There’s no automatic death condition, and Taking Someone Out before they get a chance to react or concede is virtually impossible.
 
