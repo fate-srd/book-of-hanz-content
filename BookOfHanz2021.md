@@ -1,6 +1,6 @@
 # What is Fate?
 
-A few posts got me thinking about this, and it’s a thought that’s been in my head for a while—mostly around the whole “if you’re hacking, what are the ‘safer’ things to hack, and at what point are you mucking with the base assumptions of the system?” Like Ryan Macklin’s post, I think of Fate as being a specific game that does specific things. There are things Fate is super-awesome at, and things that Fate isn’t super-awesome at. When I want to do something that Fate isn’t super-awesome at, I tend to use a different game
+A few posts got me thinking about this, and it’s a thought that’s been in my head for a while—mostly around the whole “if you’re hacking, what are the ‘safer’ things to hack, and at what point are you mucking with the base assumptions of the system?” Like Ryan Macklin’s post, I think of Fate as being a specific game that does specific things. There are things Fate is super-awesome at, and things that Fate isn’t super-awesome at. When I want to do something that Fate isn’t super-awesome at, I tend to use a different game.
 
 I don’t consider that a negative on Fate in any way. I have a Jeep Wrangler. It’s good at some things (transportation), awesome at other things (off-roading), and absolutely sucky at certain things (hauling lots of things, carrying lots of people, going fast). And to make my Wrangler better at those things would almost necessarily make it worse at the things it does well right now.
 
@@ -40,7 +40,7 @@ One of the things I really appreciate about Fate is the idea that skills represe
 
 ## Lack of Emphasis on System Mastery
 
-For me, Fate is not a game about learning to manipulate the game system. It’s a game about the fiction ( the stuff we’re imagining in our heads), not the rules. The rules get out of the way, and it’s hard to have system mastery be important if you’re trying to de-emphasize the system.
+For me, Fate is not a game about learning to manipulate the game system. It’s a game about the fiction (the stuff we’re imagining in our heads), not the rules. The rules get out of the way, and it’s hard to have system mastery be important if you’re trying to de-emphasize the system.
 
 Attempts to make Fate “crunchy” (making system mastery more important) make games feel less like Fate.
 
@@ -100,7 +100,7 @@ Which is tough. We’ve got a lot of things in traditional gaming that work, and
 
 # Introducing People to Fate
 
-This seems to come up a bunch. Fate does some things differently. Fundamentally, I think that’s because tries to answer very different questions than typical RPGs do. Because of that, it can look a bit weird at first for new players. There’s a number of concepts that don’t mesh particularly well with more ‘traditional’ or typical RPGs.
+This seems to come up a bunch. Fate does some things differently. Fundamentally, I think that’s because it tries to answer very different questions than typical RPGs do. Because of that, it can look a bit weird at first for new players. There’s a number of concepts that don’t mesh particularly well with more ‘traditional’ or typical RPGs.
 
 So how do you introduce new players?
 
@@ -156,9 +156,9 @@ Well, Fate doesn’t tell us. What it does tell us is the general parameters of 
 
 For a gritty game, it could be that the shock of parrying the sword made them go slightly numb in that hand, but nothing that couldn’t get shaken off. Or they could be knocked back by the force of the blow. For a swashbuckling game, maybe their clothes get ripped causing them to see red for a few seconds. In a more cinematic game, maybe they take a flesh wound that causes them to recoil.
 
-How can a Boost actually be a hit that causes damage if w didn’t inflict Stress?
+How can a Boost actually be a hit that causes damage if it didn’t inflict Stress?
 
-Stress isn’t damage—it’s a pacing measure, a way of determining how close someone is to being Taken Out. And succeeding on an Attack doesn’t mean you hit, and tying, or even losing, on the Attack doesn’t mean you don’t hit . Again, Fate doesn’t tell you what happens, it just places constraints on the narration. And since Stress is really a measure of how close you are to being Taken Out, as long as the narration of the resolution is consistent with that, you’re fine. You don’t need to hit someone to get them to be closer to being Taken Out, and just because you hit someone doesn’t mean that they are closer to being Taken Out.
+Stress isn’t damage—it’s a pacing measure, a way of determining how close someone is to being Taken Out. And succeeding on an Attack doesn’t mean you hit, and tying, or even losing, on the Attack doesn’t mean you don’t hit. Again, Fate doesn’t tell you what happens, it just places constraints on the narration. And since Stress is really a measure of how close you are to being Taken Out, as long as the narration of the resolution is consistent with that, you’re fine. You don’t need to hit someone to get them to be closer to being Taken Out, and just because you hit someone doesn’t mean that they are closer to being Taken Out.
 
 So we narrate the results, and the game progresses. This gives an overall flow that looks something like this:
 
@@ -180,7 +180,7 @@ In my mind this clears up a few common questions/concerns that come up about Fat
 
 First, if you can use Create Advantage to create an arbitrary aspect, why can’t you use it to come up with some blatantly overpowered thing that wins the scenario?
 
-We skip the first five steps of the resolution process If the proposed action doesn’t make sense in the fiction, you’ll never get past step two. And step four definitely stops it, as there’s no real way to apply the rules to an impossible action.
+We skip the first five steps of the resolution process. If the proposed action doesn’t make sense in the fiction, you’ll never get past step two. And step four definitely stops it, as there’s no real way to apply the rules to an impossible action.
 
 If we’re playing a gritty military game, and someone says that they want to flap their arms and fly to the top of a guard tower that just can’t and doesn’t happen. Neither does making a bomb out of sticks and mud. To even get to the point where we roll dice, the action has to be accepted as plausible, even if unlikely.
 
@@ -192,7 +192,7 @@ The third thing is what about just shooting someone in the head? This even shows
 
 Well, what about them? If a trained warrior hits an unarmed, unexpecting non-combatant with a sword, what do you think is going to happen? They’re going to get pretty murderified.
 
-This isn’t really a Conflict, so stress isn’t relevant (stress is a Conflict pacing mechanic, not an inherent property of characters). Think about how to resolve an action That resolution is dependent on a few things:
+This isn’t really a Conflict, so stress isn’t relevant (stress is a Conflict pacing mechanic, not an inherent property of characters). Think about how to resolve an action. That resolution is dependent on a few things:
 
 - The action being performed
 
@@ -252,7 +252,7 @@ I think the best way I can explain my thoughts on this is to give you a few exam
 
 **P2**: “Yeah, there could be something like a war looming, only we’re unaware of it.”
 
-**P3**: “That’s pretty cool. Though maybe there should be something else, some kind of group that’s kind of I don’t know, dimensional cops or something.”
+**P3**: “That’s pretty cool. Though maybe there should be something else, some kind of group that’s kind of, I don’t know, dimensional cops or something.”
 
 **GM**: “Good stuff. Okay, any character ideas?”
 
@@ -276,7 +276,7 @@ I think the best way I can explain my thoughts on this is to give you a few exam
 
 **P3**: “That’s fine, maybe I just don’t know it. Maybe I was dragged over here when I was a kid.”
 
-**P2**: “ maybe by your friendly neighborhood mad scientist?”
+**P2**: “Maybe by your friendly neighborhood mad scientist?”
 
 **P3**: “I love it. But why?”
 
@@ -314,13 +314,13 @@ I think the best way I can explain my thoughts on this is to give you a few exam
 
 **GM**: “Cute.”
 
-**P3**: “No, really! Except I”m like, reformed, and a vegetarian.”
+**P3**: “No, really! Except I'm like, reformed, and a vegetarian.”
 
 **P1**: “That’s kind of awesome.”
 
 **GM**: “I really want to keep this more about regular people, not superheroes”
 
-**P3**: “That’s fine. Maybe I’m a bit tougher than most people, but that’d really be about it I figure most of these supernatural folks are just kinda hanging out living regular lives anyway, so I don’t really need anything super-awesome.”
+**P3**: “That’s fine. Maybe I’m a bit tougher than most people, but that’d really be about it. I figure most of these supernatural folks are just kinda hanging out living regular lives anyway, so I don’t really need anything super-awesome.”
 
 **GM**: “Yeah, I can see that working.”
 
@@ -352,7 +352,7 @@ So, which one of these do you use? Much like Attack vs. Overcome isn’t based o
 
 I’ll start with Challenges, since they have the easiest criteria. Use a Challenge when you don’t have active opposition over the entire Challenge.
 
-Zird warding off the zombies meets these criteria. The zombies are (mostly) a passive, environmental challenge, and at any rate he’s really barring the door to them. Convincing the townspeople is arguably active opposition but they’re not interfering with the majority of the challenge, and so is an Overcome. Casting the ritual is simply environmental, and is an Overcome.
+Zird [warding off the zombies](https://fate-srd.com/fate-core/challenges#setting-up-a-challenge) meets these criteria. The zombies are (mostly) a passive, environmental challenge, and at any rate he’s really barring the door to them. Convincing the townspeople is arguably active opposition but they’re not interfering with the majority of the challenge, and so is an Overcome. Casting the ritual is simply environmental, and is an Overcome.
 
 This could mean that the opposition is unaware and inactive. This could mean that you do have active opposition, but only for part of the Challenge (in which case you can either model that as an Overcome, or as a sub-Conflict/Contest as appropriate).
 
@@ -362,15 +362,13 @@ But what if you have active opposition—some individual or party that is direct
 
 ## Conflicts
 
-If your opposition is active and wants to get you to back down, you use a Conflict. By backing down, I mean that the goal of the opposition is to get you to back down in some way either by getting knocked out and killed, by surrendering, by fleeing, etc. For a Conflict, the two things should be true:
+If your opposition is active and wants to get you to back down, you use a Conflict. By backing down, I mean that the goal of the opposition is to get you to back down in some way either by getting knocked out and killed, by surrendering, by fleeing, etc. For a Conflict, then two things should be true:
 
 - Both sides are committed to getting the other side to back down
 
 - The “question” of the conflict is either:
-
-- Whether a particular side will back down in some way
-
-- Something that the winner can accomplish if the opposition isn’t there
+  - Whether a particular side will back down in some way
+  - Something that the winner can accomplish if the opposition isn’t there
 
 So if you’re trying to capture some bad guys (or the other way around), that could be a Conflict, so long as both sides are exchanging blows (by choice or because no other option exists). If you’re trying to get past guards to defuse a bomb, that’s a Conflict.
 
@@ -414,7 +412,7 @@ Another thing that can benefit from calibration is damage. This is particularly 
 
 Let’s say with default Fate rules, you take a three stress hit from a sword. You mark off your third stress box and narrate this as taking a nasty cut across the chest. You’re nearly Taken Out.
 
-In a grittier game, one nasty cut across the chest may well be fatal, and taking one probably means that you’re close to death. We can model this by dropping the stress track to one, and making consequences only worth—1/-2/-3. Now it’s a moderate consequence and your only stress box filled in! Grittier!
+In a grittier game, one nasty cut across the chest may well be fatal, and taking one probably means that you’re close to death. We can model this by dropping the stress track to one, and making consequences only worth -1/-2/-3. Now it’s a moderate consequence and your only stress box filled in! Grittier!
 
 How do we model a gritty fight in Fate, without changing any of the dials? Again, you could change dials as well, but I think it’s interesting to see what happens if we don’t change those dials.
 
@@ -430,7 +428,7 @@ So if we’re going for “gritty”, clearly this doesn’t mean we took a nast
 
 Pain, muscle damage, blood loss and shock would probably mean that a single serious blow means “game over”. So while grittiness can be imaginative and descriptive, more often than not it is less interesting for gameplay.
 
-The same challenge exists with consequences. What does a—2 consequence mean?
+The same challenge exists with consequences. What does a -2 consequence mean?
 
 Mechanically, it means that the person that delivered it gets a free invoke, it will likely go away shortly after the fight, and that you’re that much closer to being Taken Out.
 
@@ -450,7 +448,7 @@ Compare to:
 
 Alfred hits Bob for three stress: “Alfred strikes at Bob. Bob’s not ready for the sudden strike, so he stumbles and falls as he barely manages to parry in time.”
 
-Bob hits Alfred for four stress, Alfred takes 2 and a minor consequence: “Alfred presses too hastily, and Bob lashes up from his off-balance position. Bob manages to get his blade down in time, but it looks like his hand is going to be sore from taken the impact poorly.”
+Bob hits Alfred for four stress, Alfred takes 2 and a minor consequence: “Alfred presses too hastily, and Bob lashes up from his off-balance position. Bob manages to get his blade down in time, but it looks like his hand is going to be sore from having taken the impact poorly.”
 
 Alfred hits Bob for five stress, Bob takes a Severe consequence and one stress: “Nursing his injured hand, Alfred kicks at Bob and sprawls him out. Bob gasps in pain, it feels like he may have a fractured rib.” Same mechanics. Very different feel, based upon narration and calibration.
 
@@ -460,7 +458,7 @@ Alfred hits Bob for five stress, Bob takes a Severe consequence and one stress: 
 
 I find myself quoting this a lot, and it’s really become key to how I understand Fate. When I first heard it, I assumed it meant “we’re not concerned with realism” And that’s partially true, but only partially.
 
-What I’ve come to understand this phrase as meaning is that Fate sets out to model how stories flow in actual cinematic media
+What I’ve come to understand this phrase as meaning is that Fate sets out to model how stories flow in actual cinematic media.
 
 Here’s a scene we’ve all seen countless times in film: Our spy hero needs to get past a door, guarded by a couple of mooks. We see him slip into the shadows where the mooks can’t see him. He then climbs into the pipes above the guards, and once above them drops down, taking them both out. He hauls the guards off behind some boxes and proceeds.
 
@@ -494,7 +492,7 @@ This escalation is happening simultaneously for both sides in the conflict. Tact
 
 So I’m running my Kriegszeppelin game, and a player wants to hop up his plane using some mechanics. I’m fully thinking GURPS/D&D, and so I have him roll the dice. He succeeds, gets some invokes on a Scene Aspect, and we move on. Did I do it right?
 
-No couldn’t have flubbed it more if I tried. Where was the drama? Where was the conflict? Where was the story? Nowhere. What I should have done was frame this in a scene:
+No, I couldn’t have flubbed it more if I tried. Where was the drama? Where was the conflict? Where was the story? Nowhere. What I should have done was frame this in a scene:
 
 “Okay, Eddie, the plane’s in the hangar with the other planes. When are you doing this? At night, when nobody can see? Or are you being open about it? What do the mechanics think of you messing with the plane? What about the other pilots?”
 
@@ -570,7 +568,7 @@ Most people can’t go into the palace and talk to the king, but The Brother of 
 
 Most people can’t find the assassin’s guild, and certainly can’t get in, but An Assassin in Good Standing can.
 
-As you can see, a lot of times a ‘grant permission’ aspect follows the formula “Most people can’t , but can”.
+As you can see, a lot of times a ‘grant permission’ aspect follows the formula “Most people can’t, but I can”.
 
 If you’ve got an aspect in mind, think of whether or not it gives you any kind of permissions. If not, that’s fine, not all aspects do.
 
@@ -620,7 +618,9 @@ For instance:
 
 “It gets tough to work in this town, since the cops like to hassle the only known Wizard Private Eye”
 
-“Man, I keep creating trouble for myself since I’m a Known Troublemaker” “People keep trying to kidnap me since I’m The Brother of the King”
+“Man, I keep creating trouble for myself since I’m a Known Troublemaker”.
+
+“People keep trying to kidnap me since I’m The Brother of the King”
 
 ## Creating Setting
 
@@ -640,7 +640,7 @@ So think of something interesting about your character, something you’d want t
 
 The more ways you think of how these ideas can be used in a story, the better. Try for at least three ways. If some help you, and some hinder you, you’re on to something good.
 
-Go broad in your aspects, not specific. If you choose a relationship, consider a relationship that has a lot of implications. Brother of the King lets some things happen, but Exiled Half-Brother of the Tyrant King says a lot more! For non-relationships, think of phrases that have both flavor as well as multiple connotations—Mrs Fixit has some obvious uses, but Monkey Wrench (one of my favorite all-time aspects) can be used all over the place—whether with hitting things with a literal monkey wrench, fixing things, or causing or being the recipient of a “monkey wrench in the works”.
+Go broad in your aspects, not specific. If you choose a relationship, consider a relationship that has a lot of implications. Brother of the King lets some things happen, but Exiled Half-Brother of the Tyrant King says a lot more! For non-relationships, think of phrases that have both flavor as well as multiple connotations—Mrs. Fixit has some obvious uses, but Monkey Wrench (one of my favorite all-time aspects) can be used all over the place—whether with hitting things with a literal monkey wrench, fixing things, or causing or being the recipient of a “monkey wrench in the works”.
 
 Lastly, think of aspects with flavor. Think of things that make you excited about the character, and show the character’s personality. Troubled Life is kind of blah. Penchant for Trouble is a little better, but “I’ve Got a Bad Feeling About This” says a lot about the character.
 
@@ -670,7 +670,7 @@ So without both the intent and the task , we can’t really resolve an action. S
 
 Same with the Hulk throwing someone over the horizon if you’re trying to throw them over the horizon and remove them from the Conflict, you’re trying to Take Them Out, and it’s therefore an Attack. If you’re just trying to stun them, move them around, or whatever, it’s Create An Advantage.
 
-Getting players to say what their Intent is is often tricky, especially if they’re coming from more traditional (task-based) games. I like to ask players when something is unclear “Okay, describe success. Let’s say this works what is it that you want to happen?”
+Getting players to say what their Intent is can be tricky, especially if they’re coming from more traditional (task-based) games. I like to ask players when something is unclear “Okay, describe success. Let’s say this works what is it that you want to happen?”
 
 Sometimes this isn’t really necessary, of course. If the player says “I run him through with my sword!” you can pretty well assume that the Intent is to kill him.
 
@@ -694,13 +694,13 @@ But, if we just say that the skill represents your ability to influence the scen
 
 I’m getting somewhere with this, really! Thanks for reading so far!
 
-In the previous post, I talked about modeling a cybernetic arm primarily by just giving the character the appropriate skill (Physique or possibly Athletics), an Aspect for the more narrative bits, and maybe possibly a stunt, and calling it a day. This works because, to me, having that 4 in Physique says “I have this much influence in scenes, when I approach them in this way. How I got that influence is irrelevant, whether it’s working out, technology, magic, or whatever.”
+In the previous essay, I talked about modeling a cybernetic arm primarily by just giving the character the appropriate skill (Physique or possibly Athletics), an Aspect for the more narrative bits, and maybe possibly a stunt, and calling it a day. This works because, to me, having that 4 in Physique says “I have this much influence in scenes, when I approach them in this way. How I got that influence is irrelevant, whether it’s working out, technology, magic, or whatever.”
 
 At this point, you might ask “what if I was a body builder that had cybernetics installed, hrm, Mr. Smarty Pants?”
 
 “Fate Doesn’t Go To Eleven.”
 
-Okay, I finally got around to the post title. But what the hell do I mean by that? If you’re not familiar with the phrase “goes to eleven,” it comes from the movie This Is Spinal Tap. In it, one of the guitarists talks about his amps being special because while most amps have ten as the highest setting on the dial, his goes to eleven. Apparently he’s too dumb to realize that it’s the internals of the system that determine the volume of the amp, and that the label is exactly that, just a label.
+Okay, I finally got around to the essay title. But what the hell do I mean by that? If you’re not familiar with the phrase “goes to eleven,” it comes from the movie This Is Spinal Tap. In it, one of the guitarists talks about his amps being special because while most amps have ten as the highest setting on the dial, his goes to eleven. Apparently he’s too dumb to realize that it’s the internals of the system that determine the volume of the amp, and that the label is exactly that, just a label.
 
 Fate does not go to eleven. If the maximum skill you can have in an area is 4, then that’s what you get. That also represents the maximum ability that a starting character can have in that area. Period. (Okay, there’s stunts, too, but there shouldn’t be anything granting a flat bonus). 4 doesn’t need to represent the same thing in every game. It represents the maximum that a player can start with, in that game. 4 Physique could be the strongest a human can achieve in one game, and it could be Superman in another. It’s a scale, a way of calibrating. It’s not GURPS, where 15 STR means exactly what 15 STR means, and you have lots of tables telling you exactly what 15 STR does, and you have to have crazy high levels of strength to represent augmented individuals, or supers, or whatever.
 
@@ -716,7 +716,7 @@ I’m just glad that Fate doesn’t do that, and that it gives me an option that
 
 Fate doesn’t have a damage system. We’ve got Stress, we’ve got Consequences. But nothing that says Damage.
 
-So what’s Stress, if not damage? Well, at an abstract level it’s a pacing mechanism. What that means more concretely is that it’s a measure of how close you are to being taken out—and there are lots of reasons you might be Taken Out. And since Stress clears at the end of a Scene, it’s pretty clear that it’s not meant to represent actual physical damage in any way.
+So what’s Stress, if not damage? Well, at an abstract level it’s a pacing mechanism. What that means more concretely is that it’s a measure of how close you are to being Taken Out—and there are lots of reasons you might be Taken Out. And since Stress clears at the end of a Scene, it’s pretty clear that it’s not meant to represent actual physical damage in any way.
 
 What about Consequences, then?
 
@@ -736,11 +736,11 @@ Aspects are kind of like a combination of advantages and disadvantages from GURP
 
 Let’s take a section of badly-written prose:
 
-Nanoc, the IP-Friendly Barbarian warrior, waded into battle. He knew his target, the evil warlord Baddaguy. A screaming warrior attacked him, but Nanoc split him in half, the pieces falling to his sides. He looked around for a glimpse of Baddaguy. There! Up on that hill! Nanoc started making his way up the hill, only to find three of Baddaguy’s filthy minions blocking his path. A sword strike felled one, and a parry-and-counter combination sent the next to hell. The third minion, seeing his friends die in a matter of heartbeats, ran off like the coward he was.
+_Nanoc, the IP-Friendly Barbarian warrior, waded into battle. He knew his target, the evil warlord Baddaguy. A screaming warrior attacked him, but Nanoc split him in half, the pieces falling to his sides. He looked around for a glimpse of Baddaguy. There! Up on that hill! Nanoc started making his way up the hill, only to find three of Baddaguy’s filthy minions blocking his path. A sword strike felled one, and a parry-and-counter combination sent the next to hell. The third minion, seeing his friends die in a matter of heartbeats, ran off like the coward he was._
 
 Compare that to just this modified first paragraph:
 
-Nanoc, the IP-Friendly Barbarian warrior, waded into battle. He knew his target, the evil warlord Baddaguy. A screaming warrior attacked him, but Nanoc split him in half with the strength from his might barbarian thews, the pieces falling to his sides. He looked around for a glimpse of Baddaguy. There! Up on that hill! Nanoc started making his way up the hill, only to find three of Baddaguy’s filthy minions blocking his path. A sword strike fueled by his mighty barbarian thews felled one, and a parry-and-counter combination, supported by the might of his barbarian thews sent the next to hell. The third minion, seeing his friends die in a matter of heartbeats, and quivering in fear of the mighty barbarian thews, ran off like the coward he was.
+_Nanoc, the IP-Friendly Barbarian warrior, waded into battle. He knew his target, the evil warlord Baddaguy. A screaming warrior attacked him, but Nanoc split him in half with the strength from his might barbarian thews, the pieces falling to his sides. He looked around for a glimpse of Baddaguy. There! Up on that hill! Nanoc started making his way up the hill, only to find three of Baddaguy’s filthy minions blocking his path. A sword strike fueled by his mighty barbarian thews felled one, and a parry-and-counter combination, supported by the might of his barbarian thews sent the next to hell. The third minion, seeing his friends die in a matter of heartbeats, and quivering in fear of the mighty barbarian thews, ran off like the coward he was._
 
 As bad as the first section was, the second one is I feel I need to bathe in disinfectant for having written it.
 
@@ -760,7 +760,7 @@ This is where I just say to some people “Hey, let’s play some Fate!” I’l
 
 ## Step Two: Initial Prep-work
 
-I’ll usually take a look at the skill list, dials in Fate, extra subsystems (Magic, armor, etc.) and propose some defaults. This is still pretty lightweight, and seriously subject to change. This is more about setting an initial stake in the ground in terms of what the game will be than anything. As part of this, I may flesh out some high level conflict that I think may be interesting—but again, this is kept very vague and loose, primarily so that I’m not overly attached to it if it turns out the players go a totally different direction. Depending on how detailed the pitch is, the planning I’ll do at this point will typically be more along the lines of coming up with NPCs/factions that may be opposing each other and create dynamic forces in the world, not a series of events. They’ll typically be vague, so that I can insert appropriate details from character creation.
+I’ll usually take a look at the skill list, dials in Fate, extra subsystems (magic, armor, etc.) and propose some defaults. This is still pretty lightweight, and seriously subject to change. This is more about setting an initial stake in the ground in terms of what the game will be than anything. As part of this, I may flesh out some high level conflict that I think may be interesting—but again, this is kept very vague and loose, primarily so that I’m not overly attached to it if it turns out the players want to go a totally different direction. Depending on how detailed the pitch is, the planning I’ll do at this point will typically be more along the lines of coming up with NPCs/factions that may be opposing each other and create dynamic forces in the world, not a series of events. They’ll typically be vague, so that I can insert appropriate details from character creation.
 
 If I’m going to muck with the phases, I’ll usually do so at this time and throw it past the players to see what sticks. This will be based on what makes sense, thematically, for the scenario. In general, I’ll add an aspect or two before I actually remove the Phase Trio, but if I need to dork with stuff more than that then I’ll consider ditching it in some way.
 
@@ -772,7 +772,7 @@ Now we’re actually going to throw some dice. I come to this session with my pr
 
 First is setting generation. I’m a big fan of “Places and Faces”, and setting up immediate/impending issues. One thing I’ve found with more narrative games like Fate is that they work best if there’s something that demands immediate attention, so I try to make sure there’s at least one current issue.
 
-I do setting generation first, as it helps give the players something to latch onto for character creation. I also try to be very permissive at this stage there’s no game, so it makes no real sense to veto anything, unless it just goes utterly contrary to the game pitch—someone wanting to be a space alien in a fantasy game, for instance. Of course, sometimes that can be worked into something that makes sense—see Warforged in Eberron, for instance Even in cases where there’s an established setting, most of setting generation makes sense, there’s just a few more defined fences that already exist. But in no published setting is every tavern, every organization, and every city mapped out to the degree that players can’t add their own stuff to it, even without contradicting canon.
+I do setting generation first, as it helps give the players something to latch onto for character creation. I also try to be very permissive at this stage there’s no game, so it makes no real sense to veto anything, unless it just goes utterly contrary to the game pitch—someone wanting to be a space alien in a fantasy game, for instance. Of course, sometimes that can be worked into something that makes sense—see Warforged in Eberron, for instance. Even in cases where there’s an established setting, most of setting generation makes sense, there’s just a few more defined fences that already exist. But in no published setting is every tavern, every organization, and every city mapped out to the degree that players can’t add their own stuff to it, even without contradicting canon.
 
 As part of this, I’ll expand on the faces/places created, and use those to collaboratively world-build. Often, a single place/face will suggest something larger about the world, so I’ll drill down on that. If organizations or governments are suggested, I’ll guide the group into fleshing those out.
 
@@ -810,7 +810,7 @@ I ask myself the following questions when I’m mapping things out:
 
 1. What will they do, if unopposed?
 
-More traditional players/GMs might find this artificial. I see it as a focus on fiction—in fiction, the events are directly about the characters, and often specifically to highlight inner conflict of the characters. This involves the characters and players more directly, and focuses the story on them. This is what changes Star Wars from a generic story about shooting lasers to a more meaningful story about the darkness within us, and the temptation of that darkness. This is what gives us recurring enemies that players love to hate. Incidentally, one of the main reasons I use player-created opposition when possible is the simple fact of investment. Players care about things based on how much they have invested in them. GMs often forget this—the big bad that we create is cool to us, because we have invested in them heavily. The players could care less, until that bad guy touches something that they have invested in. By stealing opposition from the players, we start with some level of investment, even if that’s no more than the players coming up with a name. And we’ll all be invested naturally through the prep process. So this ends up making a more involved game for everyone.
+More traditional players/GMs might find this artificial. I see it as a focus on fiction—in fiction, the events are directly about the characters, and often specifically to highlight inner conflict of the characters. This involves the characters and players more directly, and focuses the story on them. This is what changes Star Wars from a generic story about shooting lasers to a more meaningful story about the darkness within us, and the temptation of that darkness. This is what gives us recurring enemies that players love to hate. Incidentally, one of the main reasons I use player-created opposition when possible is the simple fact of investment. Players care about things based on how much they have invested in them. GMs often forget this—the big bad that we create is cool to us, because we have invested in them heavily. The players couldn't care less, until that bad guy touches something that they have invested in. By stealing opposition from the players, we start with some level of investment, even if that’s no more than the players coming up with a name. And we’ll all be invested naturally through the prep process. So this ends up making a more involved game for everyone.
 
 ## Step Six: Pre-Game Prep
 
@@ -826,7 +826,7 @@ Now we’ve got the game and arc prep done, and it’s time to do the session pr
 
 1. Prep some hand grenades. Hand grenades are events that occur that demand a PC response—even if not a particular response. They should be things that make the story more interesting. They may or may not be compels, but if they tie into a character or aspect, that’s awesome! NPCs coming to the PCs for aid, revelations, NPC actions, these are all examples of hand grenades.
 
-An example of a hand grenade from one of the last games I ran: The PCs were investigating some particularly nasty bandits, who it turned out to be were demon-infested (void summoners). One of the PCs had the aspect “Doesn’t trust a pretty face”, another one had the aspect “Compelled to help those in need”, and the PCs got stuck with the situation aspect “They know who we are” as the result of a concession in the previous game (the inciting incident, actually). The hand-grenade was the youngish, female demon-infested bandit coming to the PCs and asking for help.
+An example of a hand grenade from one of the last games I ran: The PCs were investigating some particularly nasty bandits, who it turned out to be were demon-infested (void summoners). One of the PCs had the aspect “Doesn’t Trust A Pretty Face”, another one had the aspect “Compelled To Help Those In Need”, and the PCs got stuck with the situation aspect “They Know Who We Are” as the result of a concession in the previous game (the inciting incident, actually). The hand-grenade was the youngish, female demon-infested bandit coming to the PCs and asking for help.
 
 Demands action? Yup. Deliberately targets PC aspects, and creates interesting conflict? Oh, yeah.
 
@@ -900,7 +900,7 @@ Collect any Fate Points, and see how players are doing with them.
 
 If they’re hoarding FP, think about why. A session where players end up with positive FP should, in general, be one where things went poorly overall for the players (or they just got lucky). But if they’re hoarding FP consistently, and not suffering setbacks, throw more compels at them and increase the difficulty of their opposition.
 
-Are they all drained of FP? If they are, they should have made decent progress if not, you may have been too hard on them. In the future, you can reduce the opposition or provide some ‘weak’ compels to increase their Fate Point pools.
+Are they all drained of FP? If they are, they should have made decent progress. If not, you may have been too hard on them. In the future, you can reduce the opposition or provide some ‘weak’ compels to increase their Fate Point pools.
 
 ## Step Twelve: Next Session
 
@@ -932,7 +932,7 @@ There’s also a couple of things that I try to do during the game. These are ov
 
 1. Keep consequences appropriate. I like to say “For someone to be Taken Out, they have to be Taken Out.” That’s my way of basically saying that you can’t shortcut the stress/consequences track by, say, throwing someone off of a cliff—if they still have stress/consequences, then maybe they’re holding onto the cliff, evaded your grab and twisted their ankle, etc. But it works for other rolls, too. A check to cast a trivial spell generally shouldn’t have the end of the universe as failure! This can be true even if it would “make sense”. Instead, take a higher-leveled view: Even if the particular spell failing would result in the end of the world, maybe a failure means something else—maybe it means that as part of casting the spell, something bad happens—or it takes longer than you expected—or possibly you realize that you don’t have something you need or can’t summon the energy.
 
-1. Help players with the rules and strategy! Man, if I could change one thing about the first couple of times I ran Fate, this would be it. Effective strategies in Fate aren’t always obvious to new players, and as such the game can be very frustrating. Make sure your players know how Create Advantage works, especially in a Conflict. Make sure they know how to use CA to use their better skills against either environment opposition, or their opponents’ weaker skills. As a GM, constantly ask yourself “hey, what would I do if I was this player?” and suggest that to the players! Have a brief conversation with them about skill match-ups, stacking aspects granted via CA, and even the trade-offs between big hits (fewer rounds to take someone out, requires more shifts) and little hits (more rounds to take someone out, requires fewer shifts).
+1. Help players with the rules and strategy! Man, if I could change one thing about the first couple of times I ran Fate, this would be it. Effective strategies in Fate aren’t always obvious to new players, and as such the game can be very frustrating. Make sure your players know how Create Advantage (CA) works, especially in a Conflict. Make sure they know how to use CA to use their better skills against either environment opposition, or their opponents’ weaker skills. As a GM, constantly ask yourself “hey, what would I do if I was this player?” and suggest that to the players! Have a brief conversation with them about skill match-ups, stacking aspects granted via CA, and even the trade-offs between big hits (fewer rounds to take someone out, requires more shifts) and little hits (more rounds to take someone out, requires fewer shifts).
 
 1. Get your players used to success and failure in Fate! Specifically, make sure they know how tough it is to get Taken Out in a single blow! Put them through a Concession early if they’re not used to Fate, and show them how the game keeps going. Have them fail some rolls, and again show them how the game keeps going. Many gamers are used to games where “failure” = “game over”, so this is a key part of Fate for new players.
 
@@ -946,7 +946,7 @@ One of the things that I’ve said here a bunch is that Fate is a game that enco
 
 These seem like a whole ton of unrelated topics, but they’re not. They all come down to a key concept: Failure, and what it means in the game.
 
-In a typical RPG session, you’ve got a goal. A princess needs saving, so you head to a cave to retrieve the antidote, fight a monster guarding that antidote, and only after winning the fight and saving the princess do you learn that the next you’ll have to do is stop the wizard from poisoning another princess. On and on your adventure goes, doing things, learning what comes next, and repeating that over and over.
+In a typical RPG session, you’ve got a goal. A princess needs saving, so you head to a cave to retrieve the antidote, fight a monster guarding that antidote, and only after winning the fight and saving the princess do you learn that the next thing you’ll have to do is stop the wizard from poisoning another princess. On and on your adventure goes, doing things, learning what comes next, and repeating that over and over.
 
 This can get stale very quickly, since the players have to keep winning otherwise the monsters defeat them, princesses aren’t saved, and wizards keep poisoning people.
 
@@ -968,7 +968,7 @@ To traditional game thinking, that makes it seem like you can’t fail in Fate. 
 
 A similar issue occurs when you get to things like ‘if a player wants there to be a hidden passage, give it a chance to exist.’ And here we get to the crux of the matter, truly.
 
-I’ve described this kind of ‘gated event’ structure a bit before. There’s nothing wrong with puzzles that are meant to be solved Jigsaw puzzles are clearly meant to be solved, and the challenge of the jigsaw is figuring out how to do it. That’s a lot of fun!
+I’ve described this kind of ‘gated event’ structure a bit before. There’s nothing wrong with puzzles that are meant to be solved. Jigsaw puzzles are clearly meant to be solved, and the challenge of the jigsaw is figuring out how to do it. That’s a lot of fun!
 
 But other things exist that let you make pictures. Like crayons. And crayons let you make any picture you want. That’s crazy! Where’s the challenge! How do you know you’ve done it right?
 
@@ -984,7 +984,7 @@ But there’s a hidden gem in there that’s the key to understanding ‘failure
 
 So with the door, we want to break it down. We now need to come up with an interesting failure, another way that the story can go. “It just doesn’t open” isn’t a story, it’s a stall in the story. It kills momentum, and doesn’t progress anything. But trying to break down the door—that’s interesting because it’s noisy, and it would attract attention. Bringing guards or alarms into play helps keep the story moving, and is exactly the sort of cinematic gameplay Fate does best.
 
-I’ve suggested the idea of ‘Fractal Challenges’ before (the idea that a single roll can be expanded into a Conflict, Challenge, or Contest, and that the inverse is true as well). So let’s look at our poisoned princess from the same view. In the original version, if you don’t make it through the Clammy Caves, you don’t save Princess Perky, and she doesn’t tell you who the Wiley Wizard is. Traditionally, you’re looking at either getting the information or dying and not getting the information..
+I’ve suggested the idea of ‘Fractal Challenges’ before (the idea that a single roll can be expanded into a Conflict, Challenge, or Contest, and that the inverse is true as well). So let’s look at our poisoned princess from the same view. In the original version, if you don’t make it through the Clammy Caves, you don’t save Princess Perky, and she doesn’t tell you who the Wiley Wizard is. Traditionally, you’re looking at either getting the information or dying and not getting the information.
 
 In Fate, the same ‘interesting result’ rule for a single roll applies to a Conflict as a whole. If there’s not an interesting result if you fail the conflict, don’t have one. By viewing the Conflict as a decision point, as a branch in the story, rather than a challenge to be overcome, we allow for ‘failure’, where in the traditional game failure tends to be rather game-ending.
 
@@ -1016,7 +1016,7 @@ And here, perhaps, there’s some presumptions made about what a ‘skill’ is.
 
 That is a lot of meta talk, so let’s clarify.
 
-A character is a story element. It can influence a scene. It does so by using skills. What a skill represents, then, is the ability for an story element to influence a scene, without the influence of another.
+A character is a story element. It can influence a scene. It does so by using skills. What a skill represents, then, is the ability for a story element to influence a scene, without the influence of another.
 
 So, what about Pitch Darkness? It certainly can’t drive! This is true, which is why it won’t have the Drive skill. But, depending on the game and scene, it can influence things! Darkness can make people paranoid, it can cause them mental stress. Instead of having a bunch of rules for all of these things, Fate just handles it by saying ‘Sure, Pitch Darkness can be active and influence a scene if appropriate. Just give it skills’.
 
@@ -1100,7 +1100,7 @@ When you’re looking at a scenario, think about what decisions the players are 
 
 A lot of times we look at adding mechanics, or encounters, or tweaking things, or setting up scenarios. And that’s great. But I find it’s best to always do those things with a mind towards “what decisions does this enable for the players?”
 
-You’ve got a town that’s having an internal power struggle? Great! One’s clearly the good guys, and one’s clearly bad well, you’ve just removed a decision, in that (hopefully!) the players will align with the good guys. Instead, try to make the two sides have implications for the future of the town that aren’t just “good” and “bad”—or even better yet, tie them into character aspects, especially if you can find conflicting aspects!
+You’ve got a town that’s having an internal power struggle? Great! One’s clearly the good guys, and one’s clearly bad, well, you’ve just removed a decision, in that (hopefully!) the players will align with the good guys. Instead, try to make the two sides have implications for the future of the town that aren’t just “good” and “bad”—or even better yet, tie them into character aspects, especially if you can find conflicting aspects!
 
 Same with game mechanics. Got some funky new dice mechanic you want to try? Awesome! But what decision points does it give to the players that they don’t have? If the players are still making the same decisions (or worse, fewer because the new mechanics provide some kind of optimal path), then rethink your mechanic.
 
